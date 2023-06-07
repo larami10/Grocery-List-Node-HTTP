@@ -1,0 +1,72 @@
+[
+    {
+        "quantity": 2,
+        "custom": "keto",
+        "name": "milk",
+        "aisle": 3,
+        "brand": "lucerne"
+    },
+    {
+        "quantity": 2,
+        "custom": "none",
+        "name": "spinach",
+        "aisle": 1,
+        "brand": "safeway"
+    },
+    {
+        "quantity": 12,
+        "custom": "cage free",
+        "name": "eggs",
+        "aisle": 3,
+        "brand": "lucerne"
+    },
+    {
+        "quantity": 6,
+        "custom": "none",
+        "name": "beer",
+        "aisle": 3,
+        "brand": "coors"
+    },
+    {
+        "quantity": 1,
+        "custom": "none",
+        "name": "ice cream",
+        "aisle": 3,
+        "brand": "breyers"
+    },
+    {
+        "quantity": 1,
+        "custom": "Mens",
+        "name": "deodorant",
+        "aisle": 5,
+        "brand": "Degree"
+    },
+    {
+        "quantity": 2,
+        "custom": "keto",
+        "name": "bread",
+        "aisle": 1,
+        "brand": "wonderbread"
+    },
+    {
+        "quantity": 1,
+        "custom": "honey roasted",
+        "name": "peanuts",
+        "aisle": 999999,
+        "brand": "Planters"
+    },
+    {
+        "quantity": 2,
+        "custom": "south beach",
+        "name": "broccoli",
+        "aisle": 1,
+        "brand": "safeway"
+    },
+    {
+        "quantity": "20",
+        "custom": "keto",
+        "name": "Pineapple",
+        "aisle": "40",
+        "brand": "Dole"
+    }
+]
